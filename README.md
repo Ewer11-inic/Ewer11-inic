@@ -11,9 +11,3 @@
 
 - LinkedIn: [seu-link](https://linkedin.com/in/seu-usuario)
 - Email: silvaewerthon11@gmail.com
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
-</p>
