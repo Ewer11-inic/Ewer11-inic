@@ -1,5 +1,3 @@
-# Ewer11-inic-
-
 <h1 align="center">Olá, eu sou o Ewerthon 👋</h1>
 <p align="center">Estudante de programação | Aprendendo desenvolvimento web</p>
 
